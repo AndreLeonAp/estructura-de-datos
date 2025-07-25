@@ -1,0 +1,559 @@
+
+
+
+
+
+# UNIVERSIDAD NACIONAL DEL ALTIPLANO
+
+
+
+![Mi foto](data:image/jpeg;base64,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)
+
+
+
+
+## Facultad De Ingeniería Estadistica E Informática
+
+
+**Alumno:** Eliseo Tarqui Ajahuana  
+
+**Curso:** Estructura de datos  
+
+**Ingeniero:** Fred Torres Cruz
+
+
+
+
+## 📚 Indice
+
+
+1. [Introducción](#introducci%C3%B3n)
+2. [Operadores](#operadores)
+3. [Estructuras De Control](#estructuras-de-control)
+4. [Funciones](#funciones)
+5. [Arrays](#arrays)
+6. [Funcion](#funcion)
+7. [Operadores & y *](#operadores-and-asterisco)
+
+
+
+
+## Introducción
+
+
+Las estructuras de datos son un modo de representar información en
+una computadora, aunque además, cuentan con un comportamiento interno.
+¿Qué significa? Que se rige por determinadas reglas/restricciones que
+han sido dadas por la forma en que está construida internamente.
+
+
+En el ámbito de la informática, las estructuras de datos son aquellas
+que nos permiten, como desarrolladores, organizar la información de
+manera eficiente, y en definitiva diseñar la solución correcta para un
+determinado problema.
+
+
+Ya sean las más utilizadas comúnmente - como las variables, arrays,
+conjuntos o clases- o las diseñadas para un propósito específico
+-árboles, grafos, tablas, etc.-, una estructura de datos nos permite
+trabajar en un algo nivel de abstracción almacenando información para
+luego acceder a ella, modificarla y manipularla.
+
+
+
+
+## Operadores
+
+
+Los operadores son símbolos especiales que se utilizan para realizar
+operaciones sobre variables y valores. Estas operaciones pueden ser
+matemáticas, lógicas, de comparación, de asignación, entre otras. Los
+operadores permiten construir expresiones que combinan datos y producen
+nuevos resultados, lo cual es esencial en la resolución de problemas
+mediante programación.
+
+
+Por ejemplo, el operador + se usa para sumar dos valores, mientras
+que el operador == se emplea para comparar si dos expresiones son
+iguales. Gracias a los operadores, es posible tomar decisiones, repetir
+instrucciones, realizar cálculos, y controlar el flujo de un
+programa.
+
+
+
+### Ejemplo:
+
+
+
+```
+ 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a, b;
+    cout <<"Ingresa el primer numero " << endl;
+    cin >> a;
+    cout <<"Ingresa el segundo numero " << endl;
+    cin >> b;
+    
+    int suma = a + b;
+    int resta = a - b;
+    int multiplicacion = a * b;
+    int division = a / b;
+    
+    cout << "Suma " << suma << endl;
+    cout << "Resta " << resta << endl;
+    cout << "Multiplicacion " << multiplicacion << endl;
+    cout << "Division " << division << endl;
+    
+    return 0;
+}
+```
+
+
+
+
+## Estructuras De Control
+
+
+Las estructuras de control son bloques de código que permiten
+modificar el flujo de ejecución de un programa. Es decir, controlan qué
+instrucciones se ejecutan, cuándo y cuántas veces.
+
+
+
+### 1. Estructuras condicionales
+
+
+permiten tomar diciciones según condicionales lógicas.
+
+
+
+
+### Ejemplo con if:
+
+
+
+```
+int edad = 18;
+if (edad >= 18) {
+    cout << "Eres mayor de edad" << endl;
+}
+```
+
+
+
+### Otras formas condicionales:
+
+
+* if-else
+* switch
+
+
+
+
+### 2. Estructuras repetitivas (bucles)
+
+
+Permiten repetir instrucciones mientras se cumpla una condición.
+
+
+
+
+### Tipos de bucles:
+
+
+* While
+* do-while
+* for
+
+
+
+
+### Ejemplo con for:
+
+
+
+```
+for (int i = 0; i < 5; i++) {
+    cout << "Repetición " << i << endl;
+}
+```
+
+
+
+### Ejemplo con while:
+
+
+
+```
+int i = 0;
+while (i < 3) {
+    cout << "i vale: " << i << endl;
+    i++;
+}
+```
+
+
+
+### Estructuras de control anidadas
+
+
+Son estructuras de control dentro de otras, como if dentro de un for,
+o for dentro de otro for.
+
+
+
+```
+for (int i = 1; i <= 3; i++) {
+    if (i % 2 == 0) {
+        cout << i << " es par" << endl;
+    } else {
+        cout << i << " es impar" << endl;
+    }
+}
+```
+
+Las estructuras de control son muy importantes en la programación
+porque nos permiten que un programa no se limite a ejecutar
+instrucciones de forma lineal. Gracias a ellas, el software puede tomar
+decisiones, repetir acciones, y adaptarse a diferentes situaciones, lo
+que le da un comportamiento dinámico e inteligente.
+
+
+
+
+### **¿Por qué son tan importantes?**
+
+
+* Permiten la toma de decisiones
+* Automatizan procesos repetitivos
+* Hacen el código más eficiente y flexible
+* Forman la base de la lógica algorítmica
+
+
+
+
+
+## Funciones
+
+
+Una función es un bloque de código reutilizable que realiza una tarea
+específica. Puedes pensar en una función com una pequeña “máquina”
+dentro de tu programa, le das una entrada (si hace falta), y te devuelve
+una salida (si aplica), ejecutando un conjunto de instrucciones.
+
+
+
+### ¿Para que sirven?
+
+
+* Para organizar mejor el código
+* Para evitar repetir instrucciones
+* Para dividir un problema grande en partes más pequeñas y fáciles de
+resolver
+* Para hacer que tu código sea más claro y mantenible.
+
+
+
+
+### Ejemplo:
+
+
+
+```
+int sumar(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int resultado = sumar(3, 5);
+    cout << "La suma es: " << resultado << endl;
+    return 0;
+}
+```
+
+
+
+
+## Arrays
+
+
+En programación, un array (también llamado arreglo) es una estructura
+de datos que permite almacenar múltiples valores del mismo tipo en una
+sola variable, organizados de forma secuencial en la memoria del
+computador.
+
+
+
+### 🧪 Ejemplo básico de un array en C++
+
+
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declaramos un array de 5 enteros
+    int numeros[5] = {10, 20, 30, 40, 50};
+
+    // Mostramos los elementos del array
+    for (int i = 0; i < 5; i++) {
+        cout << "Elemento " << i << ": " << numeros[i] << endl;
+    }
+
+    return 0;
+}
+```
+
+
+
+
+## Funcion
+
+
+
+
+## ¿Qué es una función en C++?
+
+
+Una **función** en C++ es un bloque de código
+reutilizable que realiza una tarea específica. Permite **organizar
+el programa en partes más pequeñas**, facilitando su lectura,
+mantenimiento y reutilización.
+
+
+
+### 📌 Ventajas de usar funciones:
+
+
+* Evita repetir código.
+* Mejora la estructura del programa.
+* Permite dividir un problema grande en subproblemas más simples.
+
+
+
+
+---
+
+
+
+
+### 🧪 Ejemplo básico de una función en C++
+
+
+
+```
+#include <iostream>
+using namespace std;
+
+// Definimos una función que suma dos números
+int sumar(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int resultado = sumar(5, 3);
+    cout << "La suma es: " << resultado << endl;
+    return 0;
+}
+```
+
+
+
+
+## Operadores and asterisco
+
+
+En C++, los operadores & (ampersand) y * (asterisco) tienen un
+uso especial en el manejo de punteros, aunque también se pueden usar en
+otros contextos. A continuación se explica cada uno:
+
+
+
+### Operador & (operador de dirección)
+
+
+El operador & se utiliza para obtener la dirección de memoria de
+una variable. Es decir, nos da un puntero el valor.
+
+
+
+```
+
+int numero = 10;
+int* puntero = &numero; // El puntero almacena la dirección de 'numero'
+```
+
+&numero devuelve la dirección de memoria de la variable numero,
+esa dirección se guarda en un puntero, que en este caso es int*
+puntero.
+
+
+
+
+### Operador * (operador de desreferenciación)
+
+
+El operador * se utiliza para acceder al almacenado en una dirección
+de memoria es decir al contenido del puntero.
+
+
+
+
+
+## Ejemplo
+
+
+
+```
+int a = 10;
+int* p = &a;
+cout << *p; // Imprime 10
+```
+
+*p se puede decir que “el valor almacenado en la dirección que
+guarda p”, como p apunta a “a”,* p accede al contenido de a.
+
+
+
+
+## Ejemplo completo
+
+
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 42;
+    int* ptr = &a;      // 'ptr' guarda la dirección de 'a'
+    
+    cout << "Valor de a: " << a << endl;
+    cout << "Dirección de a: " << &a << endl;
+    cout << "Contenido de ptr: " << ptr << endl;
+    cout << "Valor apuntado por ptr: " << *ptr << endl;
+
+    return 0;
+}
+```
+
+
+
+## Operador ->
+
+
+El operador-> se usa para acceder a los miembros de una estructura
+o clase a trav´ es de un puntero. Este operador es una forma abreviada
+de hacer lo que ser´ ıa equivalente a (*ptr).miembro. ### Ejemplo
+`cpp puntero->miembro` Es lo mismo que:
+`cpp (*puntero).miembro` Es decir, ptr-> es lo mismo que
+(*ptr).x, pero más limpio y claro.
+
+
+### Ejemplo práctico ```cpp #include  using namespace
+std;
+
+
+struct Persona { string nombre; void saludar() { cout << “Hola,
+soy” << nombre << endl; } };
+
+
+int main() { Persona p = {“Ana”}; Persona* ptr = &p; // ptr
+apunta al objeto p
+
+
+
+```
+ptr->saludar();         // Accedemos a la función mediante puntero
+cout << ptr->nombre;    // Accedemos al atributo mediante puntero
+
+return 0;
+```
+
+}
+
+
+
+```
+El operador -> es una herramienta esencial en C++ para trabajar con punteros a objetos. Su principal ventaja es que permite acceder de forma clara y directa a los miembros (atributos o métodos) de un objeto apuntado, sin necesidad de usar la notación más compleja (*ptr).miembro.
+
+Su uso es fundamental en estructuras de datos dinámicas, como listas enlazadas, árboles o cualquier situación en la que se manipulan objetos a través de punteros. Entender y dominar el operador -> es clave para escribir código más legible, eficiente y orientado a objetos en C++.
+
+¿Quieres que también redacte una conclusión comparando los operadores . y ->?
+
+## Listas enlazadas
+Una lista enlazada es una colección de elementos, llamados nodos, donde cada nodo contiene dos partes:
+
+1. Un dato (por ejemplo, un número o un objeto)
+
+2. Un puntero (o enlace) al siguiente nodo en la lista
+
+A diferencia de los arrays, las listas enlazadas no almacenan sus elementos en posiciones contiguas de memoria, lo que permite insertar o eliminar nodos fácilmente sin necesidad de mover otros elementos.
+Ejemplo
+```cpp
+[10 | * ] → [20 | * ] → [30 | NULL]
+```
+
+Cada no tiene, un valor (por ejemplo 10,20 y 30), un puntero al
+siguiente nodo.
+
+
+
+
+## Tipos de listas enlazadas
+
+
+* Lista simplemente enlazada: Cada nodo apunta solo al siguiente
+nodo.
+* Lista doblemente enlazasa: Cada nodo apunta al anterior y al
+siguiente nodo.
+* Lista Circular: El último nodo apunta al primero, formando un
+ciclo.
+
+
+Las ventajas son las inserciones y eliminaciones eficientes en
+cualquier posición, también el tamaño dinámico (crece o se reduce en
+tiempo de ejecución), finalmente ideal para estructuras como pilas,
+colas y árboles.
+
+
+
+### Ejemplo
+
+
+
+```
+#include <iostream>
+using namespace std;
+
+struct Nodo {
+    int dato;
+    Nodo* siguiente;
+};
+
+int main() {
+    Nodo* primero = new Nodo{10, nullptr};
+    primero->siguiente = new Nodo{20, nullptr};
+    primero->siguiente->siguiente = new Nodo{30, nullptr};
+
+    Nodo* actual = primero;
+    while (actual != nullptr) {
+        cout << actual->dato << " ";
+        actual = actual->siguiente;
+    }
+    return 0;
+}
+```
+
+
+
+
+
+
+
+
